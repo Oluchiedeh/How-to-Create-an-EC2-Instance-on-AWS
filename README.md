@@ -45,9 +45,28 @@ A key pair is required to connect to your instance securely. If you don't have a
 ![Key pair](EC2-5.jpeg) 
 
 **Step 7: Network Setting.**
+
 Click on create a new security group, and it will automatically create a security group if you do not have an existing one.
 
 ![Key pair](EC2-6.jpeg) 
 
+**Step 8: Cofigure Storage.**
+
+Leave this section as default.
+
+![Stroage](EC2-7.jpeg) 
 
 
+**Step 9: Summary and Launch.**
+
+Check that all you requirement is set and then your instance is ready to launch.
+
+![Launch](EC2-8.jpeg) 
+
+**Step 13: Access Your Instance.**
+
+Once the instance is launched, you can access it using SSH (for Linux instances) or Remote Desktop (for Windows instances) using the private key file (.pem) you downloaded earlier.
+
+**Conclusion:**
+
+Creating an EC2 instance on AWS is a straightforward process that allows you to quickly deploy virtual servers in the cloud. By following this step-by-step guide, you can create and configure an EC2 instance tailored to your specific needs.
