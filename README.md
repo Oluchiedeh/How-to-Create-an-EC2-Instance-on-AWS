@@ -21,3 +21,33 @@ On the EC2 Dashboard, click the "Launch Instance" button to initiate the process
 
 **Step Four: Name your Instance.**
 
+![Instance name.](EC2-1.jpeg)  
+
+Choose a name that is unique to you and easily relateable to the project you are working on.
+
+**Step 4: Choose an Amazon Machine Image (AMI).**
+
+Select the AMI that best suits your requirements. An AMI is a template that contains the software configuration (e.g., operating system, application server) for your instance.
+
+![AMI](EC2-2.jpeg)  
+
+**Step 5: Choose an Instance Type.**
+
+Next, choose an instance type based on the computing resources (CPU, memory, storage) you need.
+![Instance type](EC2-3.jpeg) 
+
+**Step 6: Select Key Pair.**
+
+A key pair is required to connect to your instance securely. If you don't have an existing key pair, you can create a new one. Download the private key file (.pem) and keep it secure.
+
+![Key pair](EC2-4.jpeg) 
+
+![Key pair](EC2-5.jpeg) 
+
+**Step 7: Network Setting.**
+Click on create a new security group, and it will automatically create a security group if you do not have an existing one.
+
+![Key pair](EC2-6.jpeg) 
+
+
+
