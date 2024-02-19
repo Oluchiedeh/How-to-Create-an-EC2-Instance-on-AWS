@@ -1,6 +1,6 @@
 # How-to-Create-an-EC2-Instance-on-AWS
 
-The Cloud is an insteresting place, as companies move to the cloud there is need to provision virtual machines. One of the most use cloud provider in the world is Amazon Web Services (AWS). 
+The Cloud is an interesting place, as companies move to the cloud there is a need to provision virtual machines. Amazon Web Services (AWS) is one of the most used cloud providers in the world.
 
 **Introduction:**
 
@@ -11,7 +11,7 @@ Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable comp
 To complete this task, we will need to create an account on the AWS console. [HERE](https://aws.amazon.com/console)
 Create an account if you do not have any, then sign in with your account credentials.
 
-**Step Two: Access the EC2 Daashboard.**
+**Step Two: Access the EC2 Dashboard.**
 
 Once you loggin, locate the "Service" button and navigated to EC2 and you will be directed to the EC2 dashboard.
 
